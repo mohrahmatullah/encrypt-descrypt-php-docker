@@ -1,0 +1,10 @@
+version: "3.7"
+services: 
+    web:
+        build: ./
+        volumes: 
+            - ./src:/var/www/html/
+            - ./src/uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
+        ports: 
+            - 8006:80
+    
