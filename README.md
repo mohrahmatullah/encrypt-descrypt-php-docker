@@ -1,5 +1,5 @@
 # Langkah untuk menginstal
-- Harus connet internet
+- Harus connect internet
 - Harus sudah terinstal docker dan docker compose
 - git clone https://github.com/mohrahmatullah/encrypt-descrypt-php-docker
 - Buka CMD Lalu ketikan cd 
