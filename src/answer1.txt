@@ -1,0 +1,5 @@
+Original String: [ { "id_pengada": "123321", "id_cust": "000000990000", "kode_pengguna": 1, "jenis_pengguna": 1, "tgl_registrasi": "2021/01/11", "nama_pengguna": "Ari", "no_ktp": "0000000000000088", "no_npwp": "000000000000022" } ]
+
+Encrypted String: qseaHkyFuDoD23abJXdn3rwNN0GDyYt7ncy4vxP0hfq3jbP7Zr24phXVC4Ma2j7+jqPxHEZadT/YBoRlj70aUhEll18wdc9z8OlFSXS+qJYLBQnFSgayluXwkV8En8T/DmehgWckbo9CT/XYWDTWqZaMSu/qdGVtXaZzl3OVNzGdB9XDskZ6dxYy3ERb9ogh3sDEj6YIzaCkOEjfPpdRFT2C+DtNHWMSOV3HDpR1yNY03PVvOwoJ9XYdpOVMbU0ito5yUdvdYLJvcMShsYU3w1baymHhezVViBVz4Gn3lKQ=
+
+Decrypted String: [ { "id_pengada": "123321", "id_cust": "000000990000", "kode_pengguna": 1, "jenis_pengguna": 1, "tgl_registrasi": "2021/01/11", "nama_pengguna": "Ari", "no_ktp": "0000000000000088", "no_npwp": "000000000000022" } ]
